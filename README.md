@@ -1,4 +1,7 @@
 # motor_control
+
+W.L. Peng, Y.W. Lan, S.G Chen, F.J Lin, R.I. Chang and J.M. Ho, Reinforcement Learning Control for Six-Phase Permanent Magnet Synchronous Motor Position Servo Drive, 2020 IEEE 3nd International Conference on Knowledge Innovation and Invention (ICKII), Kaohsiung, Taiwan
+
 ## To train the model from begining:
 1. change the file, train.py, in line 44 "begin = True"
 2. specify your own hyperparameters in train.py
